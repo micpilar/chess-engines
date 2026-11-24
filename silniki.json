@@ -1,0 +1,211 @@
+{
+  "aktualizacja": "2026-11-22",
+  "katalogSilnikow": [
+    {
+      "id": "ENG-001",
+      "nazwa": "Stockfish",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2008,
+      "rankingCCRL": 3645,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 1024,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Tord Romstad",
+        "Marco Costalba",
+        "Joona Kiiski",
+        "Gary Linscott",
+        "i wiele innych (spójrz AUTHORS)"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-002",
+      "nazwa": "Obsidian",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2023,
+      "rankingCCRL": 3615,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 512,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Gabriele Lombardo"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-003",
+      "nazwa": "PlentyChess",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2023,
+      "rankingCCRL": 3605,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 512,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Yoshie2000"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-004",
+      "nazwa": "Integral",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2024,
+      "rankingCCRL": 3595,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 512,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Aron Petkovski"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-005",
+      "nazwa": "Reckless",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2023,
+      "rankingCCRL": 3585,
+      "jezykProgramowania": "Rust",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 512,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "World",
+        "peregrineshahin",
+        "Styx"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-006",
+      "nazwa": "Pawnocchio",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2024,
+      "rankingCCRL": 3560,
+      "jezykProgramowania": "Rust",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 256,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Jonathan Hallström"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-007",
+      "nazwa": "Tarnished",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2024,
+      "rankingCCRL": 3545,
+      "jezykProgramowania": "Rust",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 256,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Bobingstern"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-008",
+      "nazwa": "Halogen",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2020,
+      "rankingCCRL": 3525,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 256,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Kieren Pearson"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-009",
+      "nazwa": "Quanticade",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2024,
+      "rankingCCRL": 3515,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 256,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "DarkNeutrino"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    },
+    {
+      "id": "ENG-010",
+      "nazwa": "Patricia",
+      "architektura": "Hybrydowa",
+      "openSource": true,
+      "rokPowstania": 2023,
+      "rankingCCRL": 3510,
+      "jezykProgramowania": "C++",
+      "parametryTechniczne": {
+        "minWatkow": 1,
+        "maxWatkow": 256,
+        "obslugaGPU": false
+      },
+      "autorzy": [
+        "Adam Kulju"
+      ],
+      "protokoly": [
+        "UCI"
+      ]
+    }
+  ]
+}
