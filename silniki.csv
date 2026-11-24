@@ -1,0 +1,11 @@
+id,nazwa,architektura,open_source,rok_powstania,ranking_ccrl,jezyk_programowania,min_watkow,max_watkow,obsluga_gpu,autorzy,protokoly
+ENG-001,Stockfish,Hybrydowa,true,2008,3645,C++,1,1024,false,Tord Romstad;Marco Costalba;Joona Kiiski;Gary Linscott;i wiele innych (spójrz AUTHORS),UCI
+ENG-002,Obsidian,Hybrydowa,true,2023,3615,C++,1,512,false,Gabriele Lombardo,UCI
+ENG-003,PlentyChess,Hybrydowa,true,2023,3605,C++,1,512,false,Yoshie2000,UCI
+ENG-004,Integral,Hybrydowa,true,2024,3595,C++,1,512,false,Aron Petkovski,UCI
+ENG-005,Reckless,Hybrydowa,true,2023,3585,Rust,1,512,false,World;peregrineshahin;Styx,UCI
+ENG-006,Pawnocchio,Hybrydowa,true,2024,3560,Rust,1,256,false,Jonathan Hallström,UCI
+ENG-007,Tarnished,Hybrydowa,true,2024,3545,Rust,1,256,false,Bobingstern,UCI
+ENG-008,Halogen,Hybrydowa,true,2020,3525,C++,1,256,false,Kieren Pearson,UCI
+ENG-009,Quanticade,Hybrydowa,true,2024,3515,C++,1,256,false,DarkNeutrino,UCI
+ENG-010,Patricia,Hybrydowa,true,2023,3510,C++,1,256,false,Adam Kulju,UCI
